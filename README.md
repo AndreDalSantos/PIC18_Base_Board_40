@@ -1,8 +1,6 @@
 # Placa PIC18F_Base_40_pinos
 
-<h1 align="center">
-    <img src="image_board.png">
-</h1>
+<img src="image_board.png">
 
 ## Sobre
 
