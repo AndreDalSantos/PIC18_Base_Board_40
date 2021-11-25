@@ -27,26 +27,26 @@ A Placa PIC18F_Base_40_pinos foi desenvolvida utilizando o Software **Kicad** pa
 
 No canto superior direito da página clicar em **Code** 
 <h3 align="center">
-    <img src="baixar_github1.png" alt="baixar_github1.png" title="como baixar" />
+    <img src="baixar_github1.jpg" alt="baixar_github1.jpg" title="como baixar" />
 </h3>
 
 Depois clicar em download ZIP para baixar o projeto compactado
 <h3 align="center">
-    <img src="baixar_github2.png" alt="baixar_github2.png" title="Como baixar" />
+    <img src="baixar_github2.jpg" alt="baixar_github2.jpg" title="Como baixar" />
 </h3>
 
 ### OBS: Deve ter instalado o [Kicad](https://www.kicad.org/download/) no computador para abrir o projeto
 ---
 
 <h3 align="center">
-    <img src="image_top_view.png" alt="image_top_view.png" title="imagem layer top" />
+    <img src="image_top_view.jpg" alt="image_top_view.jpg" title="imagem layer top" />
     <a>Vista do layer top</a>
 </h3>
 
 ---
 
 <h3 align="center">
-    <img src="image_bottom_view.png" alt="image_bottom_view.png" title="imagemlayer bottom" />
+    <img src="image_bottom_view.jpg" alt="image_bottom_view.jpg" title="imagemlayer bottom" />
     <a>Vista do layer bottom</a>
 </h3>
 
