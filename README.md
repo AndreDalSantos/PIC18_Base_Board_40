@@ -1,7 +1,7 @@
 # Placa PIC18F_Base_40_pinos
 
 <h1 align="center">
-    <img src="image_board.png" alt="image_board.png" title="Vista da placa" />
+    <img src="image_board.jpg" alt="image_board.jpg" title="Vista da placa" />
 </h1>
 
 ## Sobre
